@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Tandarts praktijk"
+header_headline: "Verbindende Communicatie<br/>in de tandartspraktijk"
 header_subheadline: "<b>Communicatie</b> is de kracht"
 
 # Add a 'Go back to top' item to the navigation menu

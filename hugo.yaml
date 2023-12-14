@@ -2,11 +2,17 @@ baseURL: https://ellaelladesign.nl/tandarts
 languageCode: en-us
 title: Tandarts
 enableRobotsTXT: true
-theme: 
-  - hugo-shortcode-roneo-collection
+theme:
   - hugo-scroll
 
 Params:
   hidedesignbyline: true
   copyright: Copyrights - Tiana
   showYear: true
+
+module:
+  mounts:
+    - source: static
+      target: static
+    - source: images
+      target: static/images
